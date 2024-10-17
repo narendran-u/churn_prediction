@@ -1,5 +1,3 @@
-Got it! Let me add more emojis and ensure it looks great for copy-pasting. Here’s the updated version of the README with emojis and markdown formatting for GitHub. 😊
-
 ---
 
 # **🚀 Churn Prediction System**
@@ -94,5 +92,3 @@ For more information or inquiries, feel free to contact:
   - **Email:** [narenshankar2004@gmail.com](mailto:narenshankar2004@gmail.com)
 
 ---
-
-Now it's filled with emojis and should look perfect for copy-pasting directly into your **README.md** on GitHub! 😊 If you still face issues, let me know!
